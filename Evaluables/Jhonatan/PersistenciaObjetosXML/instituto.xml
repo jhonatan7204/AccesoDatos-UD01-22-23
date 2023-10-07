@@ -1,0 +1,129 @@
+<institutos>
+  <instituto>
+    <nombre>IES Macià Abela</nombre>
+    <persona class="profesor">
+      <dni>44444444D</dni>
+      <nombre>Pepe</nombre>
+      <apellido1>López</apellido1>
+      <apellido2>Gómez</apellido2>
+      <fechaNacimiento>1990-05-20</fechaNacimiento>
+      <sueldoBruto>1500.0</sueldoBruto>
+      <fechaIncorporacion>2023-10-04</fechaIncorporacion>
+      <historial>
+        <nombreInstituto>IES Macià Abela</nombreInstituto>
+        <anyoAcademico>2023</anyoAcademico>
+        <asignatura>Base de Datos</asignatura>
+        <asignatura>Acceso a datos</asignatura>
+        <asignatura>Gestión de Base de datos</asignatura>
+      </historial>
+      <historial>
+        <nombreInstituto>IES La Encantá</nombreInstituto>
+        <anyoAcademico>2021</anyoAcademico>
+        <asignatura>Servicios en Red</asignatura>
+        <asignatura>Informática 4ºESO</asignatura>
+        <asignatura>Informática 3ºESO</asignatura>
+      </historial>
+      <historial>
+        <nombreInstituto>IES Torrevigía</nombreInstituto>
+        <anyoAcademico>2022</anyoAcademico>
+        <asignatura>Programación</asignatura>
+        <asignatura>TIC 2</asignatura>
+      </historial>
+      <falta>
+        <fecha>20/01/2020</fecha>
+        <razon>Tirar papeles</razon>
+      </falta>
+      <falta>
+        <fecha>10/02/2020</fecha>
+        <razon>Decir palabrotas</razon>
+      </falta>
+      <falta>
+        <fecha>15/05/2020</fecha>
+        <razon>Insultar a los compañeros</razon>
+      </falta>
+    </persona>
+    <persona class="administrativo">
+      <dni>77777777D</dni>
+      <nombre>Ana</nombre>
+      <apellido1>Pérez</apellido1>
+      <apellido2>Gómez</apellido2>
+      <fechaNacimiento>1980-06-20</fechaNacimiento>
+      <sueldoBruto>2000.0</sueldoBruto>
+      <tiempoContrato>12</tiempoContrato>
+    </persona>
+    <persona class="administrativo">
+      <dni>66666666D</dni>
+      <nombre>Manolo</nombre>
+      <apellido1>Gil</apellido1>
+      <apellido2>Manzano</apellido2>
+      <fechaNacimiento>2000-01-01</fechaNacimiento>
+      <sueldoBruto>1200.0</sueldoBruto>
+      <tiempoContrato>6</tiempoContrato>
+    </persona>
+  </instituto>
+  <instituto>
+    <nombre>IES Vaga Baja</nombre>
+    <persona class="profesor">
+      <dni>11111111F</dni>
+      <nombre>María</nombre>
+      <apellido1>Martínez</apellido1>
+      <apellido2>Gómez</apellido2>
+      <fechaNacimiento>1985-12-10</fechaNacimiento>
+      <sueldoBruto>2150.0</sueldoBruto>
+      <fechaIncorporacion>2023-10-04</fechaIncorporacion>
+      <historial>
+        <nombreInstituto>IES Severo Ochoa</nombreInstituto>
+        <anyoAcademico>2020</anyoAcademico>
+        <asignatura>Lenguajes de Marcas</asignatura>
+        <asignatura>Entornos de desarrollo</asignatura>
+        <asignatura>Base de Datos</asignatura>
+      </historial>
+      <historial>
+        <nombreInstituto>IES San Vicente</nombreInstituto>
+        <anyoAcademico>2019</anyoAcademico>
+        <asignatura>Servicios en Red e Internet</asignatura>
+        <asignatura>Despliegue de Aplicaciones</asignatura>
+      </historial>
+      <falta>
+        <fecha>20/01/2020</fecha>
+        <razon>Quemas papeles</razon>
+      </falta>
+      <falta>
+        <fecha>10/02/2020</fecha>
+        <razon>Agredir compañeos</razon>
+      </falta>
+      <falta>
+        <fecha>15/05/2020</fecha>
+        <razon>Pegar chicles</razon>
+      </falta>
+    </persona>
+    <persona class="administrativo">
+      <dni>66666666F</dni>
+      <nombre>Pepa</nombre>
+      <apellido1>Seva</apellido1>
+      <apellido2>López</apellido2>
+      <fechaNacimiento>1975-02-28</fechaNacimiento>
+      <sueldoBruto>1950.0</sueldoBruto>
+      <tiempoContrato>25</tiempoContrato>
+    </persona>
+    <persona class="profesor">
+      <dni>78877887F</dni>
+      <nombre>Lorena</nombre>
+      <apellido1>Ferrer</apellido1>
+      <apellido2>Soriano</apellido2>
+      <fechaNacimiento>2003-05-26</fechaNacimiento>
+      <sueldoBruto>2200.0</sueldoBruto>
+      <fechaIncorporacion>2023-10-04</fechaIncorporacion>
+      <historial>
+        <nombreInstituto>IES Catral</nombreInstituto>
+        <anyoAcademico>2019</anyoAcademico>
+        <asignatura>Informática 1ºESO</asignatura>
+        <asignatura>Informática 2ºESO</asignatura>
+        <asignatura>Informática 3ºESO</asignatura>
+        <asignatura>Informática 4ºESO</asignatura>
+        <asignatura>Informática 2ºBACH</asignatura>
+      </historial>
+      <falta reference="../../persona/falta[2]"/>
+    </persona>
+  </instituto>
+</institutos>

@@ -1,0 +1,74 @@
+<viajes>
+  <viaje>
+    <fechaSalida>2023-10-04</fechaSalida>
+    <fechaLlegada>2023-10-04</fechaLlegada>
+    <etapa>
+      <destino>
+        <ciudad>Madrid</ciudad>
+        <pais>España</pais>
+      </destino>
+      <hotel>
+        <nombre>Melia</nombre>
+        <direccion>Madrid</direccion>
+        <precio>34.5</precio>
+      </hotel>
+      <numNoches>2</numNoches>
+      <string>Museo del Padro</string>
+      <string>Santiago Bernabeu</string>
+    </etapa>
+    <etapa>
+      <destino>
+        <ciudad>Alicante</ciudad>
+        <pais>España</pais>
+      </destino>
+      <hotel>
+        <nombre>Continental</nombre>
+        <direccion>Benidorm</direccion>
+        <precio>50.0</precio>
+      </hotel>
+      <numNoches>3</numNoches>
+      <string>Balcon del Mediterraneo</string>
+      <string>Aqualandia</string>
+    </etapa>
+    <salida>
+      <ciudad>Crevillent</ciudad>
+      <pais>España</pais>
+    </salida>
+  </viaje>
+  <viaje>
+    <fechaSalida>2023-10-04</fechaSalida>
+    <fechaLlegada>2023-10-04</fechaLlegada>
+    <etapa>
+      <destino>
+        <ciudad>Alicante</ciudad>
+        <pais>España</pais>
+      </destino>
+      <hotel>
+        <nombre>Ibis</nombre>
+        <direccion>Alicante</direccion>
+        <precio>20.0</precio>
+      </hotel>
+      <numNoches>2</numNoches>
+      <string>Mercado Central</string>
+      <string>Castillo de Santa Barbara</string>
+    </etapa>
+    <etapa>
+      <destino>
+        <ciudad>Sitges</ciudad>
+        <pais>España</pais>
+      </destino>
+      <hotel>
+        <nombre>NH Barcelona</nombre>
+        <direccion>Barcelona</direccion>
+        <precio>75.0</precio>
+      </hotel>
+      <numNoches>3</numNoches>
+      <string>Palau de Maricel</string>
+      <string>Museo del Cau Ferrat</string>
+    </etapa>
+    <salida>
+      <ciudad>Elche</ciudad>
+      <pais>España</pais>
+    </salida>
+  </viaje>
+</viajes>
