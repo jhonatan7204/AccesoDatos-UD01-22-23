@@ -1,2 +1,0 @@
-src/main/recursos/musica.mp3
-src/main/recursos/musica2.mp3

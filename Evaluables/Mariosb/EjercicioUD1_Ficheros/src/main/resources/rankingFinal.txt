@@ -1,3 +1,0 @@
-Pepito :  20
-Ana    :  17
-Maria  :  12
